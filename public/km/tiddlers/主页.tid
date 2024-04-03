@@ -1,5 +1,5 @@
 created: 20231207132625263
-modified: 20240403131606948
+modified: 20240403134130799
 tags: 
 title: 主页
 
@@ -7,14 +7,14 @@ title: 主页
 通过[[PARA]]搭建的常青笔记软件。
 其中[[Project]]包括[[工作管理]]，[[Area]]包括[[知识管理]]...
 
-* Project
+* `Project`
 	** [[工作管理]]		
-* Area
+* `Area`
 ** [[知识管理]]
 ** [[阅读管理]]
 ** [[CS自学指南]]
-* Resource
-* Archive
+* `Resource`
+* `Archive`
 
 ---
 
